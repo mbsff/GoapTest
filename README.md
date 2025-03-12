@@ -1,3 +1,5 @@
+Made in unity 2021.3.19f1
+
 This code is based on the Idle goap agent example. The differences are:
 - IdleTargetSensor chooses a random spot 10m away from the agent
 - IdleAction Timer reduced to 0,5-1s
